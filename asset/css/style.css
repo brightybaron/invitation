@@ -101,9 +101,9 @@ body {
 
 .pelaksanaan {
   background-color: #78918f;
-  padding: 3em 0;
   background-image: url("../img/bg-dot.png");
   background-repeat: repeat;
+  padding: 3em 0;
 }
 
 .pelaksanaan .card {
