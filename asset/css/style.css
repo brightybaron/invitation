@@ -1,5 +1,5 @@
 body {
-  background-image: url("asset/img/bg-dot.png");
+  background-image: url("../img/bg-dot.png");
   background-repeat: repeat;
   background-color: #78918f;
 }
@@ -53,7 +53,7 @@ body {
 }
 
 .biobio {
-  background-image: url("asset/img/web3-3.png");
+  background-image: url("../img/web3-3.png");
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
