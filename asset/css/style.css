@@ -1,5 +1,5 @@
 body {
-  background-image: url("asset/img/bg-dot.png");
+  background-image: url("/asset/img/bg-dot.png");
   background-repeat: repeat;
   background-color: #78918f;
 }
