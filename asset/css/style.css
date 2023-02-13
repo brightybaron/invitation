@@ -120,3 +120,70 @@ body {
 .detail-acara p {
   margin-bottom: 0.5rem;
 }
+
+/* countdown */
+.ctdn-timer {
+  background-image: url("../img/d4_3.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+  height: 600px;
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  border-radius: 1em;
+}
+
+.timer-content {
+  color: white;
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translate(-50%, -50%) !important;
+  width: 360px;
+}
+
+.realtime-counter {
+  padding: 10px 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 1em;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.realtime-counter p {
+  margin-bottom: 0;
+}
+
+/* wishes */
+.wishes {
+  padding: 50px 0;
+  background-color: #78918f;
+}
+
+.say-thanks {
+  color: white;
+  padding: 40px 0 35px 0;
+}
+
+.say-thanks p {
+  font-family: "DM Serif Display", serif;
+  font-size: 1.25em;
+  letter-spacing: 1px;
+}
+
+.say-thanks h3 {
+  font-family: "Bad Script", cursive;
+  font-size: 2.5em;
+}
+
+.divider-bottom {
+  background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='49px' viewBox='0 0 1280 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff'%3E%3Cpath d='M1280 3.4C1050.59 18 1019.4 84.89 734.42 84.89c-320 0-320-84.3-640-84.3C59.4.59 28.2 1.6 0 3.4V140h1280z' fill-opacity='.3'/%3E%3Cpath d='M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V140H0z' fill-opacity='.5'/%3E%3Cpath d='M1280 51.76c-201 12.49-242.43 53.4-513.58 53.4-320 0-320-57-640-57-48.85.01-90.21 1.35-126.42 3.6V140h1280z'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 100% 49px;
+  height: 49px;
+  z-index: 1;
+}
+/* footer */
+footer p {
+  margin: 0;
+}
