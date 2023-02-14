@@ -29,12 +29,14 @@ body {
   height: 100vh;
 }
 
-.pembukaan .open p {
+.pembukaan .bg-content p {
   font-family: "Playfair Display", serif;
 }
 
-.pembukaan .open h2 {
+.pembukaan .bg-content h1,
+h2 {
   font-family: "Sacramento", cursive;
+  margin: 0;
 }
 
 .bg-content {
@@ -48,13 +50,13 @@ body {
 
 .ayat-suci {
   color: white;
-  max-width: 80%;
   font-size: 1rem;
+  z-index: 20;
 }
 
 .biobio {
   background-image: url("../img/web3-3.png");
-  background-position: bottom;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 10;
@@ -63,6 +65,7 @@ body {
 .biodata {
   padding: 100px 0;
 }
+
 .card {
   border: none;
   border-radius: unset;
@@ -96,6 +99,11 @@ body {
 
   .foto-manten {
     width: 150px;
+    margin: 0.8rem 0;
+  }
+
+  .ayat-suci p {
+    font-size: 0.9rem;
   }
 }
 
