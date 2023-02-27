@@ -1,19 +1,19 @@
 body {
-  background-color: #78918f;
+  background-color: #b5aece;
   background-image: url("../img/bg-dot.png");
   background-repeat: repeat;
 }
 
 /* divider */
 .bottom-divider-1 {
-  background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='27px' viewBox='0 0 1280 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2378918f'%3E%3Cpath d='M725.29 101.2C325.22 122.48 0 0 0 0v140h1280V0s-154.64 79.92-554.71 101.2z' fill-opacity='.3'/%3E%3Cpath d='M556.45 119.74C953.41 140 1280 14 1280 14v126H0V0s159.5 99.48 556.45 119.74z' fill-opacity='.5'/%3E%3Cpath d='M640 140c353.46 0 640-140 640-139v140H0V0s286.54 140 640 140z'/%3E%3C/g%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='27px' viewBox='0 0 1280 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23b5aece'%3E%3Cpath d='M725.29 101.2C325.22 122.48 0 0 0 0v140h1280V0s-154.64 79.92-554.71 101.2z' fill-opacity='.3'/%3E%3Cpath d='M556.45 119.74C953.41 140 1280 14 1280 14v126H0V0s159.5 99.48 556.45 119.74z' fill-opacity='.5'/%3E%3Cpath d='M640 140c353.46 0 640-140 640-139v140H0V0s286.54 140 640 140z'/%3E%3C/g%3E%3C/svg%3E");
   background-size: 100% 35px;
   height: 35px;
   z-index: 11;
 }
 
 .top-divider-1 {
-  background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='27px' viewBox='0 0 1280 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2378918f'%3E%3Cpath d='M725.29 101.2C325.22 122.48 0 0 0 0v140h1280V0s-154.64 79.92-554.71 101.2z' fill-opacity='.3'/%3E%3Cpath d='M556.45 119.74C953.41 140 1280 14 1280 14v126H0V0s159.5 99.48 556.45 119.74z' fill-opacity='.5'/%3E%3Cpath d='M640 140c353.46 0 640-140 640-139v140H0V0s286.54 140 640 140z'/%3E%3C/g%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='27px' viewBox='0 0 1280 140' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23b5aece'%3E%3Cpath d='M725.29 101.2C325.22 122.48 0 0 0 0v140h1280V0s-154.64 79.92-554.71 101.2z' fill-opacity='.3'/%3E%3Cpath d='M556.45 119.74C953.41 140 1280 14 1280 14v126H0V0s159.5 99.48 556.45 119.74z' fill-opacity='.5'/%3E%3Cpath d='M640 140c353.46 0 640-140 640-139v140H0V0s286.54 140 640 140z'/%3E%3C/g%3E%3C/svg%3E");
   background-size: 100% 35px;
   height: 35px;
   z-index: 5;
@@ -55,7 +55,7 @@ body {
 }
 
 .modal-teks .btn-modal:hover {
-  background-color: #78918f;
+  background-color: #b5aece;
   color: white;
 }
 
@@ -91,7 +91,7 @@ h2 {
 }
 
 .bg-content {
-  background: url("../img/web3-4-land.png");
+  background: url("../img/web3-5-cp.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -173,7 +173,7 @@ h2 {
 
 /* pelaksanaan */
 .pelaksanaan {
-  background-color: #78918f;
+  background-color: #b5aece;
   background-image: url("../img/bg-dot.png");
   background-repeat: repeat;
   padding: 3em 0;
@@ -186,7 +186,7 @@ h2 {
 
 .btn-loc {
   color: white;
-  background-color: #78918f;
+  background-color: #b5aece;
 }
 
 /* akad nikah */
@@ -231,7 +231,7 @@ h2 {
 /* wishes */
 .wishes {
   padding: 50px 0;
-  background-color: #78918f;
+  background-color: #b5aece;
 }
 
 .say-thanks {

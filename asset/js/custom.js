@@ -4,7 +4,7 @@ myModal.toggle();
 
 // countdown-timer
 // Mengatur waktu akhir perhitungan mundur
-var countDownDate = new Date("May 25, 2023 08:00:00").getTime();
+var countDownDate = new Date("March 6, 2023 09:00:00").getTime();
 
 // Memperbarui hitungan mundur setiap 1 detik
 var x = setInterval(function () {
