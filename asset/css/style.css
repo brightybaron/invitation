@@ -138,6 +138,18 @@ h2 {
   z-index: 10;
 }
 
+.biobio a {
+  background-color: #38698d;
+  width: 34px;
+  margin: 10px auto 0 auto;
+  border-radius: 1rem;
+}
+
+.biobio a i {
+  color: white;
+  font-size: 1.5rem;
+}
+
 .biodata {
   padding: 100px 0;
 }
@@ -234,12 +246,12 @@ h2 {
 
 .timer-content .title {
   font-family: "Oleo Script Swash Caps", cursive;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .realtime-counter {
   padding: 10px 0;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.4);
   border-radius: 1em;
   width: 100%;
   margin: 0 auto;
@@ -266,7 +278,7 @@ h2 {
   letter-spacing: 1px;
 }
 
-.say-thanks h3 {
+.say-thanks h4 {
   font-family: "Bad Script", cursive;
   font-size: 2.5em;
 }
