@@ -68,6 +68,11 @@ body {
   color: white;
 }
 
+.halo :nth-child(3) {
+  font-family: "Cookie", cursive;
+  font-size: 2rem;
+}
+
 /* hero */
 .hero {
   background-image: url("../img/c4.jpg");
