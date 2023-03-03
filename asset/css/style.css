@@ -139,14 +139,11 @@ h2 {
 }
 
 .biobio a {
-  background-color: #38698d;
-  width: 34px;
   margin: 10px auto 0 auto;
-  border-radius: 1rem;
 }
 
 .biobio a i {
-  color: white;
+  color: black;
   font-size: 1.5rem;
 }
 
@@ -161,7 +158,7 @@ h2 {
 
 .card-body.bio h2 {
   font-family: "Playfair Display", serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .card-body.bio h6 {
@@ -278,7 +275,7 @@ h2 {
   letter-spacing: 1px;
 }
 
-.say-thanks h4 {
+.say-thanks h3 {
   font-family: "Bad Script", cursive;
   font-size: 2.5em;
 }
