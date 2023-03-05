@@ -2,6 +2,7 @@ body {
   background-color: #38698d;
   background-image: url("../img/bg-dot.png");
   background-repeat: repeat;
+  font-family: "Lato", sans-serif;
 }
 
 /* divider */
@@ -94,6 +95,7 @@ body {
 
 .pembukaan .bg-content p {
   font-family: "Playfair Display", serif;
+  font-size: 1.2rem;
 }
 
 .pembukaan .bg-content h1,
@@ -262,6 +264,21 @@ h2 {
 
 .realtime-counter p {
   margin-bottom: 0;
+}
+
+/* amplop */
+.amplop {
+  color: #ffffff;
+}
+
+.amplop h3 {
+  font-family: "Oleo Script", cursive;
+  font-style: italic;
+}
+
+.rekening {
+  background-color: whitesmoke;
+  color: #000000;
 }
 
 /* wishes */
