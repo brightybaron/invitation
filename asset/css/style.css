@@ -268,7 +268,7 @@ h2 {
 
 /* amplop */
 .amplop {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 
 .amplop h3 {
@@ -277,10 +277,20 @@ h2 {
 }
 
 .rekening {
-  background-color: whitesmoke;
+  background-color: #fae7e0;
   color: #000000;
 }
 
+.rekening .btn {
+  color: white;
+  background-color: #38698d;
+  width: 200px;
+}
+
+.rekening .btn:hover {
+  background-color: whitesmoke;
+  color: #000000;
+}
 /* wishes */
 .wishes {
   padding: 50px 0;
