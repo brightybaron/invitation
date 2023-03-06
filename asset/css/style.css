@@ -163,6 +163,12 @@ h2 {
   border-radius: unset;
 }
 
+.pelaksanaan .card-body {
+  background-image: url("../img/web3-5-land.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .card-body.bio h2 {
   font-family: "Playfair Display", serif;
   font-weight: 700;
@@ -221,6 +227,10 @@ h2 {
   background-color: #38698d;
 }
 
+.btn-loc:hover {
+  background-color: #fae7e0;
+}
+
 /* akad nikah */
 .detail-acara p {
   margin-bottom: 0.5rem;
@@ -268,7 +278,11 @@ h2 {
 
 /* amplop */
 .amplop {
-  background-color: #ffffff;
+  background-image: url("../img/web3-5-land.png");
+  background-size: auto;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  max-width: 95%;
 }
 
 .amplop h3 {
@@ -279,6 +293,7 @@ h2 {
 .rekening {
   background-color: #fae7e0;
   color: #000000;
+  max-width: 360px;
 }
 
 .rekening .btn {
